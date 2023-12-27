@@ -1,8 +1,9 @@
 # countdown_timer
 
 #### Purpose of the Project:
-*Creating a simple countdown timer using Python.
-*Practical applications in various scenarios such as time management, events, or activities.
+1.Creating a simple countdown timer using Python.
+
+2.Practical applications in various scenarios such as time management, events, or activities.
 
 Time Module:
 
